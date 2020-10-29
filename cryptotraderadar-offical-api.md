@@ -338,6 +338,8 @@ Every response after that will be an update to the orderbook (new order, updated
   }
 ```
 
+* Unsubscribe to Full orderbook
+
 #### Request
 ```yaml
   {
