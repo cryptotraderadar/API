@@ -1,4 +1,4 @@
-# api
+# API
 
 ## Latest Update: 29/10/2020
 
