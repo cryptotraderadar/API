@@ -69,6 +69,7 @@ By default, anyone who signs up, can use our platform for free up to 2 exchanges
 After you connect to our websocket (via your software) you can subscribe to the following channels:
 
 * Subscribe to Free orderbook
+
 If you are a free level user, and want to test our orderbook, you can choose any pair you want to subscribe from our default exchanges.
 
 ##### Example:
@@ -120,6 +121,7 @@ No response will be sent, you will just stop receiving orderbook updates.
  
  
 * Subscribe to Top orderbook (requires to be a paid subscriber)
+
 This will provide you the best 5 asks and bids per selected exchange.
 
 ##### Example:
@@ -175,6 +177,7 @@ No response will be sent, you will just stop receiving orderbook updates.
  
  
 * Subscribe to Full orderbook (requires to be a paid subscriber)
+
 This will provide you the best asks and bids per from all of our active exchanges.
 At first response from our websocket you will receive full orderbook (according to selected depth, or default depth)
 Every response after that will be an update to the orderbook (new order, updated order etc..)
