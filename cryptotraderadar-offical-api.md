@@ -317,7 +317,8 @@ Every response after that will be an update to the orderbook (new order, updated
     "Amount": 2.4365409,
     "Channel": "subscribe_full_orderbook"
   }
- 
+```
+
 #### Response (Third etc..)
 ```yaml
   {
@@ -328,5 +329,5 @@ Every response after that will be an update to the orderbook (new order, updated
     "Amount": 0.0,
     "Channel": "subscribe_full_orderbook"
   }
- 
+```
 
