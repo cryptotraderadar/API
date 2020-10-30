@@ -194,7 +194,7 @@ Every response after that will be an update to the orderbook (new order, updated
     "Channel":"subscribe_full_orderbook",
     "Pair":"ETH-BTC",
     "Key":"yourWebSocketApiKey"
-    "Depth":10 (optional, default = 50, max = 50)
+    "Depth":5 (optional, default = 50, max = 50)
   }
 ```
 
