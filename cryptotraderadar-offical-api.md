@@ -45,7 +45,7 @@ GET /wpf/exchange_settings
 
 ### 3. WebSocket API Methods
 If you wish to use our WebSocket API, you must first register at https://www.cryptotraderadar.com
-Once you sign up, you will receive and WebSocket API Key so you can use to subscribe to our websocket channels.
+Once you sign up, you will receive an WebSocket API Key so you can use to subscribe to our websocket channels.
 By default, anyone who signs up, can use our platform for free up to 2 exchanges (Binance and Okex).
 
 * You can download our optional software tool to test it out.
@@ -63,7 +63,10 @@ By default, anyone who signs up, can use our platform for free up to 2 exchanges
 
 #### Response
 ```yaml
-  No response.
+  {
+    "Channel":"pong",
+    "Timestamp":"1603992146", (in milliseconds)
+  }
 ```
 
 
