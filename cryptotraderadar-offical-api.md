@@ -1,7 +1,5 @@
 # API
 
-## Latest Update: 29/10/2020
-
 ### 1. General API Information 
 
 * The base endpoint for PUBLIC REST API is: https://cryptotraderadar.com/api
