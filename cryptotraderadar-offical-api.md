@@ -3,7 +3,7 @@
 ### 1. General API Information 
 
 * The base endpoint for PUBLIC REST API is: https://cryptotraderadar.com/api
-* The base endpoint for WEBSOCKET API is: wss://cryptotraderadar.com:443
+* The base endpoint for WEBSOCKET API is: wss://cryptotraderadar.com
 
 ### 2. Public API Methods
 
